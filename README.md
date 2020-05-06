@@ -74,8 +74,8 @@ save
 ```
 ![](ss/task5.1.png)
 ![](ss/task5.2.png)
-@all-contributors
-@all-contributors please add @ash6899
+
+@all-contributors add @ash6899
 @all-contributors add @sonaagar
 
 <a href="https://github.com/yashkhandelwal17/Practice/graphs/contributors">
