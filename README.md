@@ -75,5 +75,6 @@ save
 ![](ss/task5.1.png)
 ![](ss/task5.2.png)
 ```
-@all-contributors bot!
+@all-contributors add ash6899 
+@all-contributors add sonaagar
 ```
