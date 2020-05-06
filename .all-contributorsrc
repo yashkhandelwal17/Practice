@@ -13,5 +13,28 @@
     }
   },
   "skipCi": "true",
-  "contributors": [ash6899,sonaagar]
+  "contributors": [
+  {
+      "login": "ash6899",
+      "name": "Yash Khandelwal",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/48616793?s=60&v=4",
+      "profile": "https://github.com/ash6899",
+      "contributions": [
+        "code",
+        "ideas",
+        "bug",
+        "test"
+      ]
+    },{
+      "login": "sonagar",
+      "name": "Namrata Agarwal",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/54032574?s=460&v=4",
+      "profile": "https://github.com/sonaagar",
+      "contributions": [
+        "code",
+        "ideas",
+        "infra",
+        "test"
+      ]
+    }]
 }
