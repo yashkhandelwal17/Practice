@@ -75,6 +75,6 @@ save
 ![](ss/task5.1.png)
 ![](ss/task5.2.png)
 ```
-@all-contributors add ash6899 for ideas
-@all-contributors add sonaagar for bugs
+@all-contributors  add @ash6899 for ideas
+@all-contributors  add @sonaagar for bugs
 ```
