@@ -74,7 +74,9 @@ save
 ```
 ![](ss/task5.1.png)
 ![](ss/task5.2.png)
-```
-[Yash Khandelwal](https://github.com/ash6899)
-[Namrata Agarwal](https://github.com/sonaagar)
-```
+
+<a href="https://github.com/yashkhandelwal17/Practice/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=yashkhandelwal17/Practice" />
+</a>
+Made with [contributors-img](https://contributors-img.web.app).
+
