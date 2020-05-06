@@ -1,12 +1,12 @@
 # Automate the process for main and test environment
-## job1: copying the code of main environment
+## Task1: copying the code of main environment
 ```
 SCM>git>repository URL:url of repo
 build triggers>enable github hook trigger for GITScm polling
 build>execute shell>sudo cp -v -r -f  * /webserver
 save
 ```
-## job2: deploying using docker in production environment
+## Task2: deploying using docker in production environment
 ```
 SCM>none
 Build triggers>enable Build after other projects are built>project to watch:job1
@@ -20,14 +20,14 @@ fi
 
 save
 ```
-## job3:copying the code of test environment
+## Task3:copying the code of test environment
 ```
 SCM>git>repository URL:url of repo>Branches to build: */dev1
 build triggers>enable github hook trigger for GITScm polling
 build>execute shell>sudo cp -v -r -f  * /webserver1
 save
 ```
-## job4:depolying using docker in testing environment
+## Task4:depolying using docker in testing environment
 ```
 SCM>none
 Build triggers>enable Build after other projects are built>project to watch:job3
@@ -42,7 +42,7 @@ fi
 save
 ```
 
-## job5: merging dev1 code with master when QAT team certifies
+## Task5: merging dev1 code with master when QAT team certifies
 ```
 SCM>git>repository url:url of your repo
 credentials>usrname/password
