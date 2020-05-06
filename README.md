@@ -6,6 +6,7 @@ build triggers>enable github hook trigger for GITScm polling
 build>execute shell>sudo cp -v -r -f  * /webserver
 save
 ```
+![](ss/task1.png)
 ## Task2: deploying using docker in production environment
 ```
 SCM>none
@@ -20,6 +21,7 @@ fi
 
 save
 ```
+![](ss/task2.png)
 ## Task3:copying the code of test environment
 ```
 SCM>git>repository URL:url of repo>Branches to build: */dev1
@@ -27,6 +29,7 @@ build triggers>enable github hook trigger for GITScm polling
 build>execute shell>sudo cp -v -r -f  * /webserver1
 save
 ```
+![](ss/task3.png)
 ## Task4:depolying using docker in testing environment
 ```
 SCM>none
@@ -41,7 +44,7 @@ fi
 
 save
 ```
-
+![](ss/task4.png)
 ## Task5: merging dev1 code with master when QAT team certifies
 ```
 SCM>git>repository url:url of your repo
@@ -69,3 +72,5 @@ target remote name:origin
 enable rebase before push
 save
 ```
+![](ss/task5.1.png)
+![](ss/task5.2.png)
