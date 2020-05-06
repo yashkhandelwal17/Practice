@@ -74,9 +74,12 @@ save
 ```
 ![](ss/task5.1.png)
 ![](ss/task5.2.png)
-
+```
+@all-contributors add @ash6899
+@all-contributors add @sonaagar
+```
 <a href="https://github.com/yashkhandelwal17/Practice/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=yashkhandelwal17/Practice" />
 </a>
-Made with [contributors-img](https://contributors-img.web.app).
+
 
